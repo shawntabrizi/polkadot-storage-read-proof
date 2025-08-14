@@ -1,0 +1,9 @@
+[package]
+name = "polkadot-storage-read-proof"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hex = "0.4.3"
+sp-core = "38.0.0"
+sp-state-machine = "0.47.0"
